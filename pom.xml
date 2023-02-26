@@ -3,7 +3,7 @@
 
 	<groupId>com.konloch</groupId>
 	<artifactId>Constants</artifactId>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 
 	<name>Constants</name>
 	<description>Constants is a very small zero dependency Java library packed with constants.</description>
